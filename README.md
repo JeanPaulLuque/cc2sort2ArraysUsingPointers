@@ -1,1 +1,1 @@
-# cc2sort2ArraysUsingPointers
+# cc2Sorting2ArraysUsingPointers
